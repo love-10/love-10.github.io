@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://love-10.github.io</id>
     <title>红天使的诗</title>
-    <updated>2020-09-27T12:17:23.071Z</updated>
+    <updated>2020-09-27T12:30:02.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://love-10.github.io"/>
     <link rel="self" href="https://love-10.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://love-10.github.io/images/avatar.png</logo>
     <icon>https://love-10.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 红天使的诗</rights>
+    <entry>
+        <title type="html"><![CDATA[Last Reunion]]></title>
+        <id>https://love-10.github.io/Ah4ltTAIc/</id>
+        <link href="https://love-10.github.io/Ah4ltTAIc/">
+        </link>
+        <updated>2020-09-27T12:28:48.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://love-10.github.io/hello-gridea/</id>
