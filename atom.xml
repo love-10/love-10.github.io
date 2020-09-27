@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://love-10.github.io</id>
     <title>红天使的诗</title>
-    <updated>2020-09-27T17:44:53.082Z</updated>
+    <updated>2020-09-27T17:46:50.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://love-10.github.io"/>
     <link rel="self" href="https://love-10.github.io/atom.xml"/>
@@ -10,19 +10,6 @@
     <logo>https://love-10.github.io/images/avatar.png</logo>
     <icon>https://love-10.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 红天使的诗</rights>
-    <entry>
-        <title type="html"><![CDATA[11你1你1你1]]></title>
-        <id>https://love-10.github.io/plE6VtR6k/</id>
-        <link href="https://love-10.github.io/plE6VtR6k/">
-        </link>
-        <updated>2020-09-27T17:32:49.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ... 插队的时候，我喂过猪、也放过牛。假如没有人来管，这两种动物也完全知道该怎样生活。它们会自由自在地闲逛，饥则食渴则饮，春天来临时还要谈谈爱情；这样一来，它们的生活层次很低，完全乏善可陈。人来了以后，给它们的生活做出了安排：每一头牛和每一口猪的生活都有了主题。就它们中的大多数而言，这种生活主题是很悲惨的：前者的主题是干活，后者的主题是长肉。我不认为这有什么可抱怨的，因为我当时的生活也不见得丰富了多少，除了八个样板戏，也</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ... 插队的时候，我喂过猪、也放过牛。假如没有人来管，这两种动物也完全知道该怎样生活。它们会自由自在地闲逛，饥则食渴则饮，春天来临时还要谈谈爱情；这样一来，它们的生活层次很低，完全乏善可陈。人来了以后，给它们的生活做出了安排：每一头牛和每一口猪的生活都有了主题。就它们中的大多数而言，这种生活主题是很悲惨的：前者的主题是干活，后者的主题是长肉。我不认为这有什么可抱怨的，因为我当时的生活也不见得丰富了多少，除了八个样板戏，也</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[1111101010]]></title>
         <id>https://love-10.github.io/oHGxiTqh2/</id>
@@ -85,5 +72,12 @@
         <link href="https://love-10.github.io/wGfzz280u/">
         </link>
         <updated>2020-09-27T17:31:19.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1111111]]></title>
+        <id>https://love-10.github.io/IOZOeKfRe/</id>
+        <link href="https://love-10.github.io/IOZOeKfRe/">
+        </link>
+        <updated>2020-09-27T17:31:06.000Z</updated>
     </entry>
 </feed>
