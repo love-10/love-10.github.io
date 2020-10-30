@@ -534,8 +534,8 @@ ul li {
   max-width: 1000px;
 }
 .post-list-container .post-inner .post {
-  margin: 33px;
-  border-radius: 10px;
+  margin: 40px;
+  border-radius: 4px;
   padding: 20px;
   display: flex;
   flex-direction: row;
