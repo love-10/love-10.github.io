@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://love-10.github.io</id>
     <title>红天使的诗</title>
-    <updated>2020-10-30T11:09:05.251Z</updated>
+    <updated>2021-01-18T03:41:05.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://love-10.github.io"/>
     <link rel="self" href="https://love-10.github.io/atom.xml"/>
     <subtitle>岁月但长.此情一往</subtitle>
     <logo>https://love-10.github.io/images/avatar.png</logo>
     <icon>https://love-10.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 红天使的诗</rights>
+    <rights>All rights reserved 2021, 红天使的诗</rights>
+    <entry>
+        <title type="html"><![CDATA[你好世界]]></title>
+        <id>https://love-10.github.io/ni-hao-shi-jie/</id>
+        <link href="https://love-10.github.io/ni-hao-shi-jie/">
+        </link>
+        <updated>2021-01-18T03:40:35.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[hhhhhhhhh]]></title>
         <id>https://love-10.github.io/hhhhhhhhh/</id>
@@ -82,12 +89,5 @@
         <link href="https://love-10.github.io/sHHvtomru/">
         </link>
         <updated>2020-09-27T17:31:31.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22222222]]></title>
-        <id>https://love-10.github.io/wGfzz280u/</id>
-        <link href="https://love-10.github.io/wGfzz280u/">
-        </link>
-        <updated>2020-09-27T17:31:19.000Z</updated>
     </entry>
 </feed>
